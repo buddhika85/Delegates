@@ -1,0 +1,6 @@
+c:\users\buddhika\documents\visual studio 2013\Projects\Delegates Demo\Delegates Demo\bin\Debug\Delegates Demo.exe.config
+c:\users\buddhika\documents\visual studio 2013\Projects\Delegates Demo\Delegates Demo\bin\Debug\Delegates Demo.exe
+c:\users\buddhika\documents\visual studio 2013\Projects\Delegates Demo\Delegates Demo\bin\Debug\Delegates Demo.pdb
+c:\users\buddhika\documents\visual studio 2013\Projects\Delegates Demo\Delegates Demo\obj\Debug\Delegates Demo.csprojResolveAssemblyReference.cache
+c:\users\buddhika\documents\visual studio 2013\Projects\Delegates Demo\Delegates Demo\obj\Debug\Delegates Demo.exe
+c:\users\buddhika\documents\visual studio 2013\Projects\Delegates Demo\Delegates Demo\obj\Debug\Delegates Demo.pdb
